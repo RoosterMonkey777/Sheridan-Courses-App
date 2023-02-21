@@ -7,3 +7,15 @@ Narration Video URL: https://sheridanc-my.sharepoint.com/:v:/g/personal/khazahaa
 # App Screenshots
 
 ![image](https://user-images.githubusercontent.com/94876933/220239981-0ceda692-cfb2-465e-b68e-6b953c677e57.png)
+![image](https://user-images.githubusercontent.com/94876933/220240096-fdd2bc30-74b3-4796-9296-51135c5396ca.png)
+![image](https://user-images.githubusercontent.com/94876933/220240114-24734591-6570-4823-b42a-1da00174ef83.png)
+![image](https://user-images.githubusercontent.com/94876933/220240127-dd256d97-7ed9-423d-be0a-3729ba58379d.png)
+![image](https://user-images.githubusercontent.com/94876933/220240147-e76823cd-55a9-4f9b-a0cf-470745b8fc41.png)
+![image](https://user-images.githubusercontent.com/94876933/220240159-d98455aa-2aa7-45f3-933c-0d1a67ac9fcc.png)
+![image](https://user-images.githubusercontent.com/94876933/220240179-8b784716-6d93-4eb5-9aa3-229c3f8ec071.png)
+
+
+
+
+
+
