@@ -16,6 +16,13 @@ Narration Video URL: https://sheridanc-my.sharepoint.com/:v:/g/personal/khazahaa
 ![image](https://user-images.githubusercontent.com/94876933/220240159-d98455aa-2aa7-45f3-933c-0d1a67ac9fcc.png)
 ![image](https://user-images.githubusercontent.com/94876933/220240179-8b784716-6d93-4eb5-9aa3-229c3f8ec071.png)
 
+# new desirable functions
+1) Personalized Learning Paths: Allow users to create personalized learning paths based on their learning style and goals.
+2) Gamification: Integrate gamification elements like points, badges, and leaderboards to make learning more engaging and fun.
+3) Collaborative Learning: Facilitate collaborative learning by offering tools for group projects, online discussions, and peer reviews.
+4) Virtual Reality: Introduce virtual reality simulations for immersive classroom experiences.
+5) Personalized Feedback: Offer personalized feedback and recommendations for improvement based on user performance.
+
 
 
 
